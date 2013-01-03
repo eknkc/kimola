@@ -107,7 +107,7 @@ The API orders search suggestions by their frequency in the database. This also 
 Returns an array of suggestions.
 
 # License
-(**The MIT License**)
+(The MIT License)
 
 Copyright (c) 2013 Ekin Koc <ekin@eknkc.com>
 
